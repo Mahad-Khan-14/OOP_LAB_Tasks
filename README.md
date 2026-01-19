@@ -1,4 +1,4 @@
-# OOP-LAB
+# OOP-LAB-Tasks
 
 - M. Mahad Khan
 - 24K-0961
